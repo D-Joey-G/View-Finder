@@ -1,0 +1,12 @@
+# requirements.txt for Trivia Helper Streamlit App
+
+streamlit
+spacy>=3.0.0 # Spacy 3+ recommended
+wikipedia-api
+pageviewapi
+anthropic
+pandas
+requests
+
+# Note: You also need to download the Spacy language model separately:
+# python -m spacy download en_core_web_lg
