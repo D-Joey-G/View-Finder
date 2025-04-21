@@ -31,3 +31,11 @@ Input trivia question-answer pairs, and the application will:
 2. Extract named entities
 3. Identify implicit topics
 4. Fetch and display Wikipedia data
+
+## Usage Example
+
+### Query
+![Query Example](images/query_example.png)
+
+### Results
+![Results Example](images/results_example.png)
